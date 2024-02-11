@@ -5,7 +5,7 @@
 }
 
 body{
-    background-color: chocolate;
+    background-color:rgb(17, 24, 39);
 }
 
 .header{
@@ -13,14 +13,14 @@ body{
     justify-content: space-around;
     top: 15%;
     left: 41%;
-    color: brown;
+    color: beige;
     font-weight: 900;
     font-size: 25px;
     /* padding-top: 15%; */
     padding-bottom: 1%;
 }
 .container{
-    background-color: rgb(253, 157, 89);
+    background-color: rgb(41, 52, 69);
     position: absolute;
     transform: translate(-50%, -50%);
     left: 50%;
@@ -28,7 +28,7 @@ body{
     width: min(90%, 31.25rem);
     padding: 3.5rem 0;
     border-radius: 0.8rem;
-    box-shadow: 0 1.9rem 3.5rem rgb(197, 85, 6);
+    box-shadow: 0 1.9rem 3.5rem rgb(25, 42, 64);
 
 }
 .display-time{
@@ -59,7 +59,7 @@ body{
     font-size: 1.5rem;
     border: none;
     background-color: rgb(238, 197, 147);
-    color: chocolate;
+    color: black;
     font-family: monospace;
     border-radius: 0.5rem;
     padding: 1rem 1.5rem;
